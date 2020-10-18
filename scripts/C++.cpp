@@ -6,4 +6,5 @@ github https://github.com/anshucollege*/
 int main()
 {
   cout<<" Hello World ";
+  count<<"Enjoying Hacktober fest";
 }
